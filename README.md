@@ -1,2 +1,2 @@
-# matematicki-softver
-prvi esej
+# Matematički softver
+##Prvi esej
